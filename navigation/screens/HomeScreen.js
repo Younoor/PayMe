@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Button } from 'bootstrap';
-import React from 'react';
+// import React from 'react';
 import { View, Text } from 'react-native';
 
 export default function HomeScreen() {
